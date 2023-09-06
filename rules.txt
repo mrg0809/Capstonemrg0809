@@ -1,0 +1,52 @@
+Capstone Project
+Welcome to the world of transformative AI education – the LangChain Essentials sprint. In this
+capstone project document, we unveil a dynamic program that's all about diving into
+generative AI using the LangChain framework.
+Upon completion of this sprint, participants will possess a comprehensive understanding of
+generative AI principles, hands-on experience with the LangChain framework, and a
+functioning generative AI application to add to their portfolio. Think engaging chatbots, crafting
+realistic text, and pushing the boundaries of natural language processing.
+Deliverable
+With this deliverable, you will practice the knowledge acquired during the lectures and
+workshops. To complete Deliverable, you must share your repository through the Google
+Classroom by Friday, September 1st so the mentors can review it.
+
+What Does the Application Have to Do?
+USE CASE (free to choose): Your final project will showcase your mastery of
+retrieval-augmented generation (RAG) enhanced with LLMs using the LangChain framework.
+Craft an application that combines information retrieval and language generation—think
+chatbots, content generators, or virtual assistants. Users input queries, and your app uses RAG
+to extract relevant information through a retrieval system for context to LLM. Focus on
+seamless integration, balancing RAG and LLM capabilities for optimal results. This deliverable
+underscores your ability to create innovative, context-aware AI applications.
+
+Minimum Requirements
+To complete this deliverable:
+1. You should implement at least 1 Sequential Chain
+2. You should implement at least 1 Transform Chain or Router Chain
+3. You should implement LangChain’s memory module.
+4. You should implement Retrieval Augmented Generation
+5. ETL: You should implement at least 1 data source (eg: web scraping, pdfs, csv, etc)
+
+R 2023 Wizeline Academy - Title | All Rights Reserved
+
+4
+
+6. You should include a document with a description and a diagram of the general
+architecture of your app.
+7. Remember to add a README for execution instructions. Evaluators will be cloning the
+repository and using these instructions to run the application locally, thus it should be clearly
+documented to get full credit for your work.
+Extra points: Implement LLMOps (logging, debugging, evaluation)
+Note: You are free to use JS or Python. You are free to choose between cloud or local solutions
+for vector storing and embeddings.
+
+Evaluation
+For the evaluation, you must provide the mentors with access to your repository. Do not forget
+to request their usernames.
+● Use Case Creativity (20 points)
+● Clean Code and Comments (20 points)
+● Chain and Memory Implementation (20 points)
+● Retrieval Augmented Generation Implementation (20 points)
+● Data Sources (20 points)
+● LLMOps Implementation (Extra Points) (10 points)
